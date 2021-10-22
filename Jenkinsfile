@@ -8,10 +8,8 @@ pipeline
 		}
 	tools
 	{
-		maven 'maven'
-	}
-
-	    tools {
+// 		maven 'maven'
+	
 	    maven 'MavenTest'
 	  }
 	options
