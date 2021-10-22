@@ -10,6 +10,10 @@ pipeline
 	{
 		maven 'maven'
 	}
+
+	    tools {
+	    maven 'MavenTest'
+	  }
 	options
     {
         // Append time stamp to the console output.
