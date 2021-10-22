@@ -10,8 +10,8 @@ pipeline
 	{
 // 		maven 'maven'
 	
-	    maven 'Maven 3.3.9' 
-        	jdk 'jdk11'
+	    maven 'Maven' 
+        	
 	  }
 	options
     {
